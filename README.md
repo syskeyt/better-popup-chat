@@ -1,5 +1,7 @@
 # PopupChat 
 
+This fork has a cleaner look than the orginal, and is ported over to the ESP32.
+
 PopupChat is an open anonymous instant chat room.
 
 PopupChat is an Arduino sketch that turns your ESP8266 or ESP32 into an open wifi access
