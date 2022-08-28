@@ -12,5 +12,5 @@ To upload to your ESP32 or ESP8266, click the .ino file for your board, then dra
 
 This fork has a cleaner look than the orginal, and is ported over to the ESP32.
 
-Screenshot:
+Screenshot
 ![alt text](https://github.com/syskeyt/better-popup-chat/blob/master/Screenshot.jpg)
